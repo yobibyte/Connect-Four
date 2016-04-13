@@ -2,5 +2,5 @@ __pycache__/
 
 #vim swap-file:
 *.sw?
-
+*.h5
 *.pyc
